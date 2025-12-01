@@ -127,14 +127,3 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
 });
-🚀 Your Project Is Now Complete
-Your folder should look like this:
-
-pgsql
-Copy code
-my-memory-game/
-  ├── App.js
-  ├── main.js
-  ├── index.js
-  ├── package.json
-  └── node_modules/
