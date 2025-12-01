@@ -128,3 +128,8 @@ const styles = StyleSheet.create({
     height: "100%",
   },
 });
+
+
+npx expo start
+
+
