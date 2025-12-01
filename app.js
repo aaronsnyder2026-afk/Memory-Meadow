@@ -1,4 +1,3 @@
-npx expo start
 import React, { useState } from "react";
 import { View, Text, TouchableOpacity, Image, StyleSheet, FlatList, Alert } from "react-native";
 import * as ImagePicker from "expo-image-picker";
@@ -129,6 +128,7 @@ const styles = StyleSheet.create({
     height: "100%",
   },
 });
+
 
 
 
